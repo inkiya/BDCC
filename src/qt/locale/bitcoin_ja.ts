@@ -4,12 +4,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About BDCC</source>
-        <translation>ブラックコインについて</translation>
+        <translation>BDCCについて</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;BDCC&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;ブラックコイン&lt;/b&gt;バージョン</translation>
+        <translation>&lt;b&gt;BDCC&lt;/b&gt;バージョン</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -61,7 +61,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-43"/>
         <source>These are your BDCC addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>これは支払いを受けるためのブラックコインのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
+        <translation>これは支払いを受けるためのBDCCのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -259,7 +259,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+82"/>
         <source>BDCC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>ただいま、暗号化手順を完成するため、ブラックコインQTは閉じます。尚、ウォレットを暗号化をされたにしても、PCのウイルスから盗難防止の報償できないことを、ご理解をお願い足します。</translation>
+        <translation>ただいま、暗号化手順を完成するため、BDCCQTは閉じます。尚、ウォレットを暗号化をされたにしても、PCのウイルスから盗難防止の報償できないことを、ご理解をお願い足します。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -353,7 +353,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about BDCC</source>
-        <translation>ブラックコインの情報を表示</translation>
+        <translation>BDCCの情報を表示</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -393,12 +393,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-55"/>
         <source>Send coins to a BDCC address</source>
-        <translation>ブラックコインアドレスへコインを送る</translation>
+        <translation>BDCCアドレスへコインを送る</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Modify configuration options for BDCC</source>
-        <translation>ブラックコインの設定を変化する</translation>
+        <translation>BDCCの設定を変化する</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -439,7 +439,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-214"/>
         <location line="+555"/>
         <source>BDCC</source>
-        <translation>ブラックコイン</translation>
+        <translation>BDCC</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -449,7 +449,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+193"/>
         <source>&amp;About BDCC</source>
-        <translation>ブラックコインについて</translation>
+        <translation>BDCCについて</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+0"/>
         <location line="+58"/>
         <source>BDCC client</source>
-        <translation>ブラックコインクライアントソフトウェア</translation>
+        <translation>BDCCクライアントソフトウェア</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
         <source>%n active connection(s) to BDCC network</source>
-        <translation><numerusform>ブラックコインネットワークへの%n アクティブな接続</numerusform></translation>
+        <translation><numerusform>BDCCネットワークへの%n アクティブな接続</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,7 +600,7 @@ Address: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid BDCC address or malformed URI parameters.</source>
-        <translation>URIのパーズができませんでした！。原因は無効なブラックコインアドレスか不正なURIパラメータ。</translation>
+        <translation>URIのパーズができませんでした！。原因は無効なBDCCアドレスか不正なURIパラメータ。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1057,7 +1057,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid BDCC address.</source>
-        <translation>入力されたアドレス &quot;%1&quot; 、有効なブラックコインアドレスではない。</translation>
+        <translation>入力されたアドレス &quot;%1&quot; 、有効なBDCCアドレスではない。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,7 +1076,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
         <source>BDCC-Qt</source>
-        <translation>ブラックコインQT</translation>
+        <translation>BDCC-QT</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,12 +1149,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Automatically start BDCC after logging in to the system.</source>
-        <translation>システムのログイン次第、自動的にブラックコインをスタート。</translation>
+        <translation>システムのログイン次第、自動的にBDCCをスタート。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start BDCC on system login</source>
-        <translation>システムログイン次第、ブラックコインをスタート</translation>
+        <translation>システムログイン次第、BDCCをスタート</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,7 +1164,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Automatically open the BDCC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動的にルーターでブラックコインクライエントソフトウェアのポートを開く。ルーターはUPnPのサポートあり、UPnPを有効にするならできる。</translation>
+        <translation>自動的にルーターでBDCCクライエントソフトウェアのポートを開く。ルーターはUPnPのサポートあり、UPnPを有効にするならできる。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1306,7 +1306,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting BDCC.</source>
-        <translation>この設定はブラックコインをリスタートした後に有効する。</translation>
+        <translation>この設定はBDCCをリスタートした後に有効する。</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,7 +1325,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+46"/>
         <location line="+247"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BDCC network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示されている情報は時間遅れている。接続したら、ウォレットは自動的にブラックコインネットワークと同期しますが過程は完了してません。</translation>
+        <translation>表示されている情報は時間遅れている。接続したら、ウォレットは自動的にBDCCネットワークと同期しますが過程は完了してません。</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1567,7 +1567,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Show the BDCC-Qt help message to get a list with possible BDCC command-line options.</source>
-        <translation>ブラックコインQTのコマンドラインのヘルプ情報を表示する。</translation>
+        <translation>BDCCQTのコマンドラインのヘルプ情報を表示する。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,12 +1587,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-104"/>
         <source>BDCC - Debug window</source>
-        <translation>ブラックコイン：デバッグウインドウ</translation>
+        <translation>BDCC：デバッグウインドウ</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>BDCC Core</source>
-        <translation>ブラックコインコア</translation>
+        <translation>BDCCコア</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,7 +1612,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
         <source>Welcome to the BDCC RPC console.</source>
-        <translation>ブラックコインRPCコンソールへようこそ。</translation>
+        <translation>BDCCRPCコンソールへようこそ。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,7 +1793,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
         <source>Enter a BDCC address (e.g. BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</source>
-        <translation>ブラックコインアドレスの入力 (例；BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</translation>
+        <translation>BDCCアドレスの入力 (例；BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,7 +1893,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+247"/>
         <source>WARNING: Invalid BDCC address</source>
-        <translation>警告：無効なブラックコインアドレス</translation>
+        <translation>警告：無効なBDCCアドレス</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,7 +1967,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a BDCC address (e.g. BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</source>
-        <translation>ブラックコインアドレスの入力 (例；BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</translation>
+        <translation>BDCCアドレスの入力 (例；BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</translation>
     </message>
 </context>
 <context>
@@ -2071,7 +2071,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a BDCC address (e.g. BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</source>
-        <translation>ブラックコインのアドレスを入力(例：BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</translation>
+        <translation>BDCCのアドレスを入力(例：BYQ4yYEZnFzxntuFQoQnSABFAVcB4tvMWH)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,7 +2081,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Enter BDCC signature</source>
-        <translation>ブラックコインのデジタル署名を入力</translation>
+        <translation>BDCCのデジタル署名を入力</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,7 +2660,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
         <source>BDCC version</source>
-        <translation>ブラックコインバージョン</translation>
+        <translation>BDCCバージョン</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2825,7 +2825,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BDCC Alert&quot; admin@foo.com
     <message>
         <location line="-104"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BDCC will not work properly.</source>
-        <translation> 警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、ブラックコイン QTは正しく行動しない。</translation>
+        <translation> 警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、BDCC QTは正しく行動しない。</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3192,12 +3192,12 @@ for example: alertnotify=echo %%s | mail -s &quot;BDCC Alert&quot; admin@foo.com
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of BDCC</source>
-        <translation>wallet.dat 読み込みエラー: 　ブラックコインQTの最新バージョンが必要です</translation>
+        <translation>wallet.dat 読み込みエラー: 　BDCCQTの最新バージョンが必要です</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart BDCC to complete</source>
-        <translation>ウォレットのデータをリライトしなければならい：ブラックコインQTをリスタートしてください</translation>
+        <translation>ウォレットのデータをリライトしなければならい：BDCCQTをリスタートしてください</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,7 +3257,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BDCC Alert&quot; admin@foo.com
     <message>
         <location line="+126"/>
         <source>Unable to bind to %s on this computer. BDCC is probably already running.</source>
-        <translation>このコンピューターで%sに結ぶことができなかった。ブラックコインQTは、もう発行してるでしょう。</translation>
+        <translation>このコンピューターで%sに結ぶことができなかった。BDCCQTは、もう発行してるでしょう。</translation>
     </message>
     <message>
         <location line="-102"/>
